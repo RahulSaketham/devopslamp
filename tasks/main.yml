@@ -1,0 +1,4 @@
+---
+- name: "Devops Roles Task"
+  debug:
+    msg: "DevOPS Done"
